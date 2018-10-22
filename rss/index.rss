@@ -1,0 +1,35 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Datudou</title><description>Thoughts, stories and ideas.</description><link>http://localhost:2368/</link><generator>Ghost 0.10</generator><lastBuildDate>Wed, 07 Sep 2016 15:59:47 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>视差字母</title><description>&lt;hr&gt;
+
+&lt;h4 id=""&gt;由来&lt;/h4&gt;
+
+&lt;p&gt;帮一位朋友设计他的博客网站 LOGO，设计之初用 “B” 来构思，不凑巧将两个同等大小的“B”叠加，且其中一个向左移动后便出现了视觉错位的效果。于是便一发不可收拾，在咖啡馆磨叽了一个下午......
+&lt;img src="http://localhost:2368/content/images/2016/09/letter.jpg" alt=""&gt;&lt;/p&gt;
+
+&lt;h4 id=""&gt;绘制步骤&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Step 1: 将两个同等大小的字母叠加，顶部位置的字母向左移动当前字母笔画的宽，如图：
+&lt;img src="http://localhost:2368/content/images/2016/09/1.jpg" alt=""&gt;&lt;/li&gt;
+&lt;li&gt;Step 2: 找到一个交叉点，将底部字母与顶部字母的交叉部分前移并遮盖，用不同颜色区分，如图：
+&lt;img src="http://localhost:2368/content/images/2016/09/2.jpg" alt=""&gt;&lt;/li&gt;
+&lt;li&gt;Step 3: 配色完成
+&lt;img src="http://localhost:2368/content/images/2016/09/3.jpg" alt=""&gt;
+&lt;strong&gt;P.s.&lt;/strong&gt; 图中字母“J L T U V Y”与其他字母不同，采用的字体特性让这几个字母只有一个交集。😄&lt;/li&gt;
+&lt;/ul&gt;</description><link>http://localhost:2368/shi-chai-zi-mu/</link><guid isPermaLink="false">dcb192a2-9064-47a5-aaae-8d4cfb5a82e0</guid><dc:creator>lemonswang</dc:creator><pubDate>Wed, 07 Sep 2016 15:56:33 GMT</pubDate><content:encoded>&lt;hr&gt;
+
+&lt;h4 id=""&gt;由来&lt;/h4&gt;
+
+&lt;p&gt;帮一位朋友设计他的博客网站 LOGO，设计之初用 “B” 来构思，不凑巧将两个同等大小的“B”叠加，且其中一个向左移动后便出现了视觉错位的效果。于是便一发不可收拾，在咖啡馆磨叽了一个下午......
+&lt;img src="http://localhost:2368/content/images/2016/09/letter.jpg" alt=""&gt;&lt;/p&gt;
+
+&lt;h4 id=""&gt;绘制步骤&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Step 1: 将两个同等大小的字母叠加，顶部位置的字母向左移动当前字母笔画的宽，如图：
+&lt;img src="http://localhost:2368/content/images/2016/09/1.jpg" alt=""&gt;&lt;/li&gt;
+&lt;li&gt;Step 2: 找到一个交叉点，将底部字母与顶部字母的交叉部分前移并遮盖，用不同颜色区分，如图：
+&lt;img src="http://localhost:2368/content/images/2016/09/2.jpg" alt=""&gt;&lt;/li&gt;
+&lt;li&gt;Step 3: 配色完成
+&lt;img src="http://localhost:2368/content/images/2016/09/3.jpg" alt=""&gt;
+&lt;strong&gt;P.s.&lt;/strong&gt; 图中字母“J L T U V Y”与其他字母不同，采用的字体特性让这几个字母只有一个交集。😄&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item></channel></rss>
